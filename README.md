@@ -17,6 +17,7 @@ __Deliverables:__
 ## Resources
 The resouces used for research and analysis included;
 - Jupyter Notebook
+- Pandas
 - Tableau
 - CSV data for research/analysis (201908-citibike-tripdata.csv)
 
