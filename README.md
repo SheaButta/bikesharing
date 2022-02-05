@@ -26,9 +26,9 @@ The resouces used for research and analysis included;
 The CSV data was reviewed and is readable.  There is one column named "Tripduration" which has a data type of int.  This data is required for my analysi so I decided to change the column data type from __int__ to __datetime__.  Changing the data type to datetime will report the "Tripduration" as __"Hours:Minutes:Seconds, (00:00:00)"__.
 
 
-__Deliverable 1:__ Change Trip Duration to a Datetime Format
+__Deliverable 1:__ Change Trip Duration to a Datetime Format (Client)
 
-This deliverable required me to use Jupyter Notebook and load the CSV file into a Pandas DataFrame.  Once loaded into the DataFrame, the __Tripduration__ data type is changed.
+This client deliverable required me to use Jupyter Notebook and load the CSV file into a Pandas DataFrame.  Once loaded into the DataFrame, the __Tripduration__ data type is changed.
     
     1.1: Datatypes of all columns
     
@@ -54,10 +54,12 @@ This deliverable required me to use Jupyter Notebook and load the CSV file into 
     ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/Dashboard.PNG)
     
 
-__Deliverable 2:__ Create Visualizations for the Trip Analysis
+__Deliverable 2:__ Create Visualizations for the Trip Analysis (Client)
+
+This client deliverable required me to produce five (5) visualizations which will tells a small story about different data points related to the Citibike data.
 
 
-    ***Visualization*** 1 - Visualize the top 10 bacterial species in an individual's navel:__
+***Visualization*** 1 - Visualize the top 10 bacterial species in an individual's navel:
 
     ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BarChart.PNG)
 
