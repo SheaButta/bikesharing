@@ -59,7 +59,7 @@ This client deliverable required me to use Jupyter Notebook and load the CSV fil
 This client deliverable required me to produce five (5) visualizations which will tells a small story about different data points related to the Citibike data.
 
 
-***Visualization*** 1 - Visualize the top 10 bacterial species in an individual's navel:
+**Visualization 1 - Check Times for Users**__
 
     ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BarChart.PNG)
 
