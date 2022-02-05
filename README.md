@@ -82,7 +82,7 @@ _**Visualization (Viz) 2 - Checkout Times by Gender**_
     ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BubbleChart.PNG)
     
 
-_**Visualization (Viz) 4: Trips by Weekday per Hour**_
+_**Visualization (Viz) 4: Trips by Gender (Weekday per Hour)**_
  
     This Viz displays a heatmap of the number of bikes trips by _**gender**_ for each hour of each day of the week.
 
@@ -97,28 +97,28 @@ _**Visualization (Viz) 5: User Trips by Gender by Weekday**_
     ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BubbleChart.PNG)
 
 
-_**Visualization (Viz) 6: **_
+_**Visualization (Viz) 6: Types of Users**_
  
-    This Viz displays a heatmap of the number of bikes trips for each type of user and gender for each day of the week.  
-    * Filtered by user (Customer or Subscriber) and gender.
+    This Viz displays the type of users Citibike has.  They have Customers and Subscribers.  Their cusstomers are occastional or regular riders; while their subscribers pay a year fee for this service.  This pie chart and legend says everthing.
 
     ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BubbleChart.PNG)
 
 
-_**Visualization (Viz) 7: **_
+_**Visualization (Viz) 7: Top Starting Locations**_
  
-    This Viz displays a heatmap of the number of bikes trips for each type of user and gender for each day of the week.  
-    * Filtered by user (Customer or Subscriber) and gender.
-
+    This Viz displays the starting location for each biker rider and counts the number of ride from each location which is describe by latitude and longitude.
+    
     ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BubbleChart.PNG)
 
 
 ## Summary
-My client is extremely pleased with the final sprint and the release of their updated dashboard.   Probable Beef (PB) has decided to hire me as their "Data Engineer" to assist with their growth and decision making for their business.  As you can see, the final dashboard does include a great constrasting background color and is extremley easy on the eyes.  As you change the subject ID of volunteers, you will notice each visualization changes to represent the correlation based on the volunteer.
+The dataset has been analyzed and visualized thoroughly.  Based on my review of all avenues for a return on investment, each visualization shows huge potential for Des Moines to have solid bike sharing business.  This data was only collected for the month of August which visualizes a return on investment.  My analysis did not cover the early spring and summer months.
 
-__Final Dashboard:__
+There are two (2) additonal visualizations that I would recommend performing to display additional returns on investment.  These two (2) additional visualizations include;
 
-![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/DDL_Charts.PNG)
+1. Using the latitude and longitude columns from the dataset, I would recommend a visualization to include the actual city names and/or boroughs that represent various hotspots     for a bikers start location.
+    
+2. Using the [Birth Year] from the dataset, I would recommend producing a visualization to calculate an approximate age of each biker.
 
 
 
