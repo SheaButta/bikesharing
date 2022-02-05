@@ -57,29 +57,29 @@ This deliverable required me to use Jupyter Notebook and load the CSV file into 
 __Deliverable 2:__ Create Visualizations for the Trip Analysis
 
 
-__Visualization 1 - Visualize the top 10 bacterial species in an individual's navel:__
+    __Visualization 1 - Visualize the top 10 bacterial species in an individual's navel:__
 
-![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BarChart.PNG)
-
-
-__Visualization 2 - Visualize a voluteer's wash frequency:__
-
-![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/GuageChart.PNG)
+    ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BarChart.PNG)
 
 
-__Visualization 3: Visualize the bacteria cultures per sampl__
+    __Visualization 2 - Visualize a voluteer's wash frequency:__
 
-![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BubbleChart.PNG)
-
-
-__- Image added to Jumbotron object dashboard:__
-
-![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/Jumbotron_modifiedWithImage.PNG)
+    ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/GuageChart.PNG)
 
 
-__- Site is Mobile Responsive:__
+    __Visualization 3: Visualize the bacteria cultures per sampl__
 
-![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/MobileResponsive.PNG)
+    ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BubbleChart.PNG)
+
+
+    __- Image added to Jumbotron object dashboard:__
+
+    ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/Jumbotron_modifiedWithImage.PNG)
+
+
+    __- Site is Mobile Responsive:__
+
+    ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/MobileResponsive.PNG)
 
 
 ## Summary
