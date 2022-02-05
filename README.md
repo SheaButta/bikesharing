@@ -56,12 +56,13 @@ This client deliverable required me to use Jupyter Notebook and load the CSV fil
 
 #### Deliverable 2: Create Visualizations for the Trip Analysis (Client)
 
-This client deliverable required me to produce five (5) visualizations which will tells a small story about different data points related to the Citibike data.
+This client deliverable required me to produce seven (7) visualizations which will tells a small story about different data points related to the Citibike data.
 
 
 _**Visualization (Viz) 1 - Check Times for Users**_
 
-    This Viz displays a line graph of the number of bikes checked out by the duration for all users.  This graph is filtered by the hour.
+    This Viz displays a line graph of the number of bikes checked out by the duration for all users.  
+    * Filtered by the hour.
 
     ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BarChart.PNG)
 
@@ -89,6 +90,22 @@ _**Visualization (Viz) 4: Trips by Weekday per Hour**_
     
 
 _**Visualization (Viz) 5: User Trips by Gender by Weekday**_
+ 
+    This Viz displays a heatmap of the number of bikes trips for each type of user and gender for each day of the week.  
+    * Filtered by user (Customer or Subscriber) and gender.
+
+    ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BubbleChart.PNG)
+
+
+_**Visualization (Viz) 6: **_
+ 
+    This Viz displays a heatmap of the number of bikes trips for each type of user and gender for each day of the week.  
+    * Filtered by user (Customer or Subscriber) and gender.
+
+    ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BubbleChart.PNG)
+
+
+_**Visualization (Viz) 7: **_
  
     This Viz displays a heatmap of the number of bikes trips for each type of user and gender for each day of the week.  
     * Filtered by user (Customer or Subscriber) and gender.
