@@ -68,7 +68,7 @@ _**Visualization (Viz) 1 - Check Times for Users**_
 
 _**Visualization (Viz) 2 - Checkout Times by Gender**_
 
-    This Viz displays a line graph of the number of bikes checked out by the duration for each gender by the hour.  This graph is filtered by the hour and gender.
+    This Viz displays a line graph of the number of bikes checked out by the duration for each gender by the hour (Filtered by the hour and gender).
 
     ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/GuageChart.PNG)
 
@@ -89,7 +89,7 @@ _**Visualization (Viz) 4: Trips by Weekday per Hour**_
 
 _**Visualization (Viz) 5: User Trips by Gender by Weekday**_
  
-    This Viz displays a heatmap of the number of bikes trips for each type of user and gender for each day of the week.  This graph is filtered by user (Customer or Subscriber) and gender.
+    This Viz displays a heatmap of the number of bikes trips for each type of user and gender for each day of the week.  (Filtered by user (Customer or Subscriber) and gender).
 
     ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BubbleChart.PNG)
 
