@@ -9,9 +9,9 @@ I was hired to do professional research and analysis; moreover, produce visualiz
 As always, my analysis followed the data analysis principles of (1) Determine the number of rows and columns; (2) Data types used; and (3) Is the data readable?
 
 __Deliverables:__
-- Change Trip Duration to a Datetime Format
-- Create Visualizations for the Trip Analysis
-- Create a Story and Report for the Final Presentation
+- Change Trip Duration to a Datetime Format (Client)
+- Create Visualizations for the Trip Analysis (Client)
+- Create a Story and Report for the Final Presentation (Client/Investors)
 
 
 ## Resources
@@ -57,7 +57,7 @@ This deliverable required me to use Jupyter Notebook and load the CSV file into 
 __Deliverable 2:__ Create Visualizations for the Trip Analysis
 
 
-    __Visualization 1 - Visualize the top 10 bacterial species in an individual's navel:__
+    **__Visualization** 1 - Visualize the top 10 bacterial species in an individual's navel:__
 
     ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BarChart.PNG)
 
