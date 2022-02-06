@@ -129,7 +129,7 @@ The below link represents the Tableau story that will be shared with the investo
 
 [Link to Story](https://public.tableau.com/app/profile/shea.t.walker/viz/bike-sharing_16440970941270/bike-sharing?publish=yes)
 
-___NOTE: You will notice throughout the story the spelling of the word "_something_" is spelled "_$omething_".  This is by design to keep the investors interest and make them see each slide illustrates a solid business that generate a return on investment__
+_**NOTE: You will notice throughout the story the spelling of the word "_something_" is spelled "_$omething_".  This is by design to keep the investors interest and make them see each slide illustrates a solid business that generate a return on investment.**_
 
 
 __- Viz1 of Story:__ Investors are concerned only with the bottom line; can this investment make me money?  The story start out by displaying the total number of rides in the month of August.  If you charge each rider a one (1) dollar for each ride then you can clearly see that citibike made over 2.3 million dollar in August.  This slide is basically putting 2.3 million dollars in face of the investor for all the users in one (1) month.
