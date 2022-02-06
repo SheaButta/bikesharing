@@ -114,8 +114,7 @@ _**Visualization (Viz) 7: Top Starting Locations**_
 
 
 ## Summary
-The dataset has been analyzed and visualized thoroughly.  Based on my review of all avenues for a return on investment, each visualization shows huge potential for Des Moines to have solid bike sharing business.  This data was only collected for the month of August which visualizes a return on investment.  My analysis did not cover the early spring and summer months.  This section completes __"Deliverable 3: Create a Story and Report for the Final Presentation (Client/Investors)"__.
-
+The dataset has been analyzed and visualized thoroughly.  Based on my review of all avenues for a return on investment, each visualization shows huge potential for Des Moines to have a solid bike sharing business.  This data was only collected for the month of August which visualizes a return on investment.  My analysis did not cover the early spring and summer months.  
 
 There are two (2) additonal visualizations that I would recommend performing to display additional returns on investment.  These two (2) additional visualizations include;
 
