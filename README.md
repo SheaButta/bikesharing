@@ -127,7 +127,7 @@ There are two (2) additonal visualizations that I would recommend performing to 
 
 The below link represents the Tableau story that will be shared with the investors.
 
-![Link to Story](https://public.tableau.com/app/profile/shea.t.walker/viz/bike-sharing_16440970941270/bike-sharing?publish=yes)
+[Link to Story](https://public.tableau.com/app/profile/shea.t.walker/viz/bike-sharing_16440970941270/bike-sharing?publish=yes)
 
 
 
