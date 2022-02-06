@@ -64,7 +64,7 @@ _**Visualization (Viz) 1 - Check Times for Users**_
     This Viz displays a line graph of the number of bikes checked out by the duration for all users.  
     * Filtered by the hour.
 
-    ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BarChart.PNG)
+    ![](https://github.com/SheaButta/bikesharing/blob/main/images/Viz1.PNG)
 
 
 _**Visualization (Viz) 2 - Checkout Times by Gender**_
@@ -72,21 +72,21 @@ _**Visualization (Viz) 2 - Checkout Times by Gender**_
     This Viz displays a line graph of the number of bikes checked out by the duration for each gender by the hour 
     * Filtered by the hour and gender.
 
-    ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/GuageChart.PNG)
+    ![](https://github.com/SheaButta/bikesharing/blob/main/images/Viz2.PNG)
 
 
  _**Visualization (Viz) 3: Trips by Weekday per Hour**_
  
     This Viz displays a heatmap of the number of bikes trips for each hour of each day of the week.
 
-    ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BubbleChart.PNG)
+    ![](https://github.com/SheaButta/bikesharing/blob/main/images/Viz3.PNG)
     
 
 _**Visualization (Viz) 4: Trips by Gender (Weekday per Hour)**_
  
     This Viz displays a heatmap of the number of bikes trips by _**gender**_ for each hour of each day of the week.
 
-    ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BubbleChart.PNG)
+    ![](https://github.com/SheaButta/bikesharing/blob/main/images/Viz4.PNG)
     
 
 _**Visualization (Viz) 5: User Trips by Gender by Weekday**_
@@ -94,21 +94,21 @@ _**Visualization (Viz) 5: User Trips by Gender by Weekday**_
     This Viz displays a heatmap of the number of bikes trips for each type of user and gender for each day of the week.  
     * Filtered by user (Customer or Subscriber) and gender.
 
-    ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BubbleChart.PNG)
+    ![](https://github.com/SheaButta/bikesharing/blob/main/images/Viz5.PNG)
 
 
 _**Visualization (Viz) 6: Types of Users**_
  
     This Viz displays the type of users Citibike has.  They have Customers and Subscribers.  Their cusstomers are occastional or regular riders; while their subscribers pay a year fee for this service.  This pie chart and legend says everthing.
 
-    ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BubbleChart.PNG)
+    ![](https://github.com/SheaButta/bikesharing/blob/main/images/Viz6.PNG
 
 
 _**Visualization (Viz) 7: Top Starting Locations**_
  
     This Viz displays the starting location for each biker rider and counts the number of ride from each location which is describe by latitude and longitude.
     
-    ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BubbleChart.PNG)
+    ![](https://github.com/SheaButta/bikesharing/blob/main/images/Viz7.PNG)
 
 
 ## Summary
