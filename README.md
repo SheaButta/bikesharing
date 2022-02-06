@@ -125,32 +125,32 @@ There are two (2) additonal visualizations that I would recommend performing to 
 
 ### Tableau Story
 
-    The below link represents the Tableau story that will be shared with the investors.  
+The below link represents the Tableau story that will be shared with the investors.  
 
-    [Link to Story](https://public.tableau.com/app/profile/shea.t.walker/viz/bike-sharing_16440970941270/bike-sharing?publish=yes)
+[Link to Story](https://public.tableau.com/app/profile/shea.t.walker/viz/bike-sharing_16440970941270/bike-sharing?publish=yes)
 
-    __NOTE:__ You will notice throughout the story the spelling of the word _**"something"**_ is spelled _**"$omething"**_.  This is by design to keep the investors' interest and make them see each slide illustrates a solid business that will generate a return on their investment.
-
-
-    __- Viz1 of Story:__ Investors are concerned only with the bottom line; can this investment make me money?  The story start out by displaying the total number of rides in the month of August.  If you charge each rider a one (1) dollar for each ride then you can clearly see that citibike made over 2.3 million dollar in August.  This slide is basically putting 2.3 million dollars in face of the investor for all the users in one (1) month.
+__NOTE:__ You will notice throughout the story the spelling of the word _**"something"**_ is spelled _**"$omething"**_.  This is by design to keep the investors' interest and make them see each slide illustrates a solid business that will generate a return on their investment.
 
 
-    __- Viz2 of Story:__ This slide attempts to engage the investors and asks if 145K bikes shared for five (5) minutes translates into $omething?  Still keeping their interest.
+__- Viz1 of Story:__ Investors are concerned only with the bottom line; can this investment make me money?  The story start out by displaying the total number of rides in the month of August.  If you charge each rider a one (1) dollar for each ride then you can clearly see that citibike made over 2.3 million dollar in August.  This slide is basically putting 2.3 million dollars in face of the investor for all the users in one (1) month.
 
 
-    __- Viz3 of Story:__ This slide still keeps the investors' interest with these suttle dollar signs. They can clearly see the male riders are generating money for citibike.  Additionally, with a little marketing it should be trivial to get more females engaged which will should generate more cash flow for the business.
+__- Viz2 of Story:__ This slide attempts to engage the investors and asks if 145K bikes shared for five (5) minutes translates into $omething?  Still keeping their interest.
 
 
-    __- Viz4 of Story:__ This slide informs the investors of __"hotspot days"__ during the week.  You can clearly see Monday, Tuesday and Thurdsay at 5PM are key days to generate money.
+__- Viz3 of Story:__ This slide still keeps the investors' interest with these suttle dollar signs. They can clearly see the male riders are generating money for citibike.  Additionally, with a little marketing it should be trivial to get more females engaged which will should generate more cash flow for the business.
 
 
-    __- Viz5 of Story:__ The __"hotspot days"__ during the week are related to male riders.  This still tell the investors something about the potential to make money based on gender.
+__- Viz4 of Story:__ This slide informs the investors of __"hotspot days"__ during the week.  You can clearly see Monday, Tuesday and Thurdsay at 5PM are key days to generate money.
 
 
-    __- Viz6 of Story:__ This slide illustrates the citibike users based on gender and whether the user is a cusotmer or subscriber.  The darker areas clearly indicate male subscribers are generating the bulk of the rides.  Additional marketing aimed a female$ can generate additional cash flow.
+__- Viz5 of Story:__ The __"hotspot days"__ during the week are related to male riders.  This still tell the investors something about the potential to make money based on gender.
 
 
-    __- Viz7 of Story:__ The final slide indicates hot starting locations for riders.  The darker and bigger the circle, repesent more bike ride which means additional cash flow.  I'm also getting the investors to think about these hot spots as tourist riders which can also generate more cash flow along with the locals.
+__- Viz6 of Story:__ This slide illustrates the citibike users based on gender and whether the user is a cusotmer or subscriber.  The darker areas clearly indicate male subscribers are generating the bulk of the rides.  Additional marketing aimed a female$ can generate additional cash flow.
+
+
+__- Viz7 of Story:__ The final slide indicates hot starting locations for riders.  The darker and bigger the circle, repesent more bike ride which means additional cash flow.  I'm also getting the investors to think about these hot spots as tourist riders which can also generate more cash flow along with the locals.
 
 
 
