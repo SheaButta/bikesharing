@@ -32,7 +32,7 @@ This client deliverable required me to use Jupyter Notebook and load the CSV fil
     
     1.1: Datatypes of all columns
     
-   ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/Dashboard.PNG)
+   ![](https://github.com/SheaButta/bikesharing/blob/main/images/citibike_df_dtypes.PNG)
 
 
     1.2: Change datatype of Tripduration to datetime
