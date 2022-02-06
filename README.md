@@ -30,6 +30,7 @@ The CSV data was reviewed and is readable.  There is one column named "Tripdurat
 
 This client deliverable required me to use Jupyter Notebook and load the CSV file into a Pandas DataFrame.  Once loaded into the DataFrame, the __Tripduration__ data type is changed.
     
+    
     1.1: Datatypes of all columns
     
    ![](https://github.com/SheaButta/bikesharing/blob/main/images/citibike_df_dtypes.PNG)
@@ -37,21 +38,22 @@ This client deliverable required me to use Jupyter Notebook and load the CSV fil
 
     1.2: Change datatype of Tripduration to datetime
     
-   ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/Dashboard.PNG)
+   ![](https://github.com/SheaButta/bikesharing/blob/main/images/citibike_df_datatypechange.PNG)
     
 
     1.3: Tripduration datatype after change
     
-   ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/Dashboard.PNG)
+   ![](https://github.com/SheaButta/bikesharing/blob/main/images/citibike_df_dtypes_AfterUpdate.PNG)
 
 
-    1.4: Tripduration datatype after change
+    1.4: Display Top five (5) rows of citibike_df DataFrame after datatype change
     
-   ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/Dashboard.PNG)
+   ![](https://github.com/SheaButta/bikesharing/blob/main/images/citibike_df_update.PNG)
+
 
     1.5: Create new CSV file after changing datatype
     
-   ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/Dashboard.PNG)
+   ![](https://github.com/SheaButta/bikesharing/blob/main/images/citibike_df_WriteNewCSV.PNG)
     
 
 #### Deliverable 2: Create Visualizations for the Trip Analysis (Client)
@@ -121,7 +123,11 @@ There are two (2) additonal visualizations that I would recommend performing to 
 2. Using the [Birth Year] from the dataset, I would recommend producing a visualization to calculate an approximate age of each biker.
 
 
+# Tableau Story
 
+The below link represents the Tableau story that will be shared with the investors.
+
+![Link to Story](https://public.tableau.com/app/profile/shea.t.walker/viz/bike-sharing_16440970941270/bike-sharing?publish=yes)
 
 
 
