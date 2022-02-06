@@ -123,7 +123,7 @@ There are two (2) additonal visualizations that I would recommend performing to 
 2. Using the [Birth Year] from the dataset, I would recommend producing a visualization to calculate an approximate age of each biker.
 
 
-# Tableau Story
+### Tableau Story
 
 The below link represents the Tableau story that will be shared with the investors.  
 
